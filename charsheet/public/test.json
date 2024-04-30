@@ -1,0 +1,372 @@
+[
+   {
+      "displayName": "Name",
+      "children": [
+         {
+            "displayName": "Deborah McNair"
+         }
+      ]
+   },
+   {
+      "displayName": "Class",
+      "children": [
+         {
+            "displayName": "Sorcerer"
+         }
+      ]
+   },
+   {
+      "displayName": "Level",
+      "children": [
+         {
+            "displayName": "2"
+         }
+      ]
+   },
+   {
+      "displayName": "Race",
+      "children": [
+         {
+            "displayName": "Satyr"
+         }
+      ]
+   },
+   {
+      "displayName": "Background",
+      "children": [
+         {
+            "displayName": "Investigator"
+         }
+      ]
+   },
+   { 
+      "displayName": "Equipment",
+      "children": [
+         {
+            "displayName": "Horns",
+            "type": "Bodypart",
+            "description": "Darkly colored, small sheep-style horns",
+            "children": [
+               {
+                  "displayName": "On",
+                  "children": [
+                     {
+                        "displayName": "Gold Inlay Pattern",
+                        "description": "Etched spiral patterns inlay with pure gold.",
+                        "type": "Decoration"
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "displayName": "Hands",
+            "type": "Bodypart",
+            "children": [
+               {
+                  "displayName": "On",
+                  "children": [
+                     {
+                        "displayName": "Leather Gloves",
+                        "type": "Clothing",
+                        "description": "A pair of well fitted leather gloves."
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "displayName": "Torso",
+            "type": "Bodypart",
+            "children": [
+               {
+                  "displayName": "On",
+                  "children": [
+                     {
+                        "displayName": "Shirt",
+                        "type": "Clothing",
+                        "description": "An off-white shirt adorned with mother of pearl buttons."
+                     },
+                     {
+                        "displayName": "Crossed Breast Band",
+                        "type": "Clothing",
+                        "children": [
+                           {
+                              "displayName": "On",
+                              "children": [
+                                 {
+                                    "displayName": "Sheath",
+                                    "type": "Container",
+                                    "children": [
+                                       {
+                                          "displayName": "In",
+                                          "children": [
+                                             {
+                                                "displayName": "Stiletto",
+                                                "type": "Weapon",
+                                                "description": "A very small and sharp blade with no crossguard. Only used for stabbing."
+                                             }
+                                          ]
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+                     {
+                        "displayName": "Backpack", 
+                        "type": "Container",
+                        "description": "A large brown leather backpack with straps and loops for attatching equipment onto.",
+                        "children": [
+                           {
+                              "displayName": "In",
+                              "children": [
+                                 {
+                                    "displayName": "Sheath",
+                                    "type": "Container",
+                                    "in": [
+                                       {
+                                          "displayName": "Dagger",
+                                          "type": "Weapon",
+                                          "description": "A utility blade with a serrated back."
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "displayName": "Coin Purse",
+                                    "type": "Container",
+                                    "in": [
+                                       {
+                                          "displayName": "Copper Coins",
+                                          "type": "Currency",
+                                          "count": 42
+                                       },
+                                       {
+                                          "displayName": "Silver Coins",
+                                          "type": "Currency",
+                                          "count": 12
+                                       },
+                                       {
+                                          "displayName": "Electrum Coins",
+                                          "type": "Currency",
+                                          "count": 1
+                                       },
+                                       {
+                                          "displayName": "Gold Coins",
+                                          "type": "Currency",
+                                          "count": 5
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "displayName": "Clear Glass Jar",
+                                    "type": "Container",
+                                    "in": [
+                                       {
+                                          "displayName": "Tobacco",
+                                          "type": "Consumable"
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "displayName": "Rolling Papers",
+                                    "type": "Consumable",
+                                    "count": 43,
+                                    "description": "Held together in a roll by a small leather strip"
+                                 },
+                                 {
+                                    "displayName": "Magnifying Glass",
+                                    "type": "Tool", 
+                                    "description": "A small magnifying glass with a cloth cover."
+                                 },
+                                 {
+                                    "displayName": "Bar of Soap",
+                                    "type": "Consumable"
+                                 },
+                                 {
+                                    "displayName": "Bedroll", 
+                                    "type": "Camp Supplies"
+                                 },
+                                 {
+                                    "displayName": "Bear Trap",
+                                    "type": "Hunting Supplies"
+                                 },
+                                 {
+                                    "displayName": "Signal Whistle",
+                                    "type": "Tool"
+                                 },
+                                 {
+                                    "displayName": "Pan Flute",
+                                    "type": "Instrument"
+                                 },
+                                 {
+                                    "displayName": "Flint and Steel",
+                                    "type": "Tool"
+                                 },
+                                 {
+                                    "displayName": "Candle",
+                                    "type": "Camp Supplies"
+                                 },
+                                 {
+                                    "displayName": "Burlap Bag",
+                                    "type": "Container",
+                                    "in": [
+                                       {
+                                          "displayName": "Cloth Pouch",
+                                          "type": "Container",
+                                          "in": [
+                                             {
+                                                "displayName": "Coffee",
+                                                "description": "Unground coffee beans, slightly stale.",
+                                                "type": "Consumable"
+                                             }
+                                          ]
+                                       },
+                                       {
+                                          "displayName": "Dried Meat",
+                                          "type": "Consumable"
+                                       },
+                                       {
+                                          "displayName": "Dried Fruid",
+                                          "type": "Consumable"
+                                       },
+                                       {
+                                          "displayName": "Hardtack",
+                                          "type": "Consumable"
+                                       },
+                                       {
+                                          "displayName": "Leather Pouch",
+                                          "type": "Container",
+                                          "in": [
+                                             {
+                                                "displayName": "Salt",
+                                                "type": "Consumable"
+                                             }
+                                          ]
+                                       }
+                                    ]
+                                 },
+                                 {
+                                    "displayName": "Cologne",
+                                    "type": "Consumable"
+                                 },
+                                 {
+                                    "displayName": "Brass Lock", 
+                                    "type": "Tool"
+                                 },
+                                 {
+                                    "displayName": "Glass Eye", 
+                                    "type": "Decoration",
+                                    "in": [
+                                       {
+                                          "displayName": "Live Worm",
+                                          "type": "Creature"
+                                       } 
+                                    ]
+                                 },
+                                 {
+                                    "displayName": "Charcoal Stick",
+                                    "type": "Consumable",
+                                    "description": "A small charcoal stick covered with a thin layer of wax."
+                                 },
+                                 {
+                                    "displayName": "Parchment",
+                                    "type": "Consumable",
+                                    "count": 10
+                                 },
+                                 {
+                                    "displayName": "Bone Dice",
+                                    "type": "Game",
+                                    "count": 2
+                                 },
+                                 {
+                                    "displayName": "Ox Shoes (Jute)",
+                                    "type": "Clothing"
+                                 },
+                                 {
+                                    "displayName": "Shirt",
+                                    "type": "Clothing",
+                                    "description": "An off-white shirt with seashell buttons."
+                                 },
+                                 {
+                                    "displayName": "File", 
+                                    "type": "Tool",
+                                    "description": "A heavy duty file for both nails and hooves."
+                                 }
+                              ]
+                           }
+                        ],
+                        "on": [
+                           {
+                              "displayName": "Small Tent",
+                              "type": "Camp Supplies",
+                              "description": "Barely large enough for a single person to lay in."
+                           },
+                           {
+                              "displayName": "Pot",
+                              "type": "Camp Supplies"
+                           },
+                           {
+                              "displayName": "Waterskin",
+                              "type": "Container",
+                              "in": [
+                                 {
+                                    "displayName": "Water",
+                                    "type": "Consumable"
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ] 
+         },
+         {
+            "displayName": "Waist",
+            "type": "Bodypart",
+            "on": [
+               {
+                  "displayName": "Skirt",
+                  "type": "Clothing",
+                  "on": [
+                     {
+                        "displayName": "Belt",
+                        "type": "Clothing",
+                        "on": [
+                           {
+                              "displayName": "Sheath",
+                              "type": "Container",
+                              "in": [
+                                 {
+                                    "displayName": "Dagger",
+                                    "type": "Weapon"
+                                 }
+                              ]
+                           },
+                           {
+                              "displayName": "Component Pouch",
+                              "type": "Container"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "displayName": "Hooves",
+            "type": "Bodypart",
+            "on": [
+               {
+                  "displayName": "Ox Shoes (Iron)",
+                  "type": "Clothing"
+               }
+            ]
+         }
+      ]
+   }
+]
+
+
